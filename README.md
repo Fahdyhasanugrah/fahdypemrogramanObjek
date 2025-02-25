@@ -1,2 +1,2 @@
 #Tugas
-Tugas praktikum inheretance fahdy
+Tugas praktikum inheritance fahdy
