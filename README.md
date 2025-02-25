@@ -1,1 +1,2 @@
-# fahdypemrogramanObjek
+#Tugas
+Tugas praktikum inheretance fahdy
